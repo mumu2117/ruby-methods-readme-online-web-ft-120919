@@ -1,10 +1,11 @@
 def greeting
+
+5.times do
+  
   puts "Hello World"
+ 
+ end
+ 
 end
 
-
-greeting
-greeting
-greeting
-greeting
 greeting
